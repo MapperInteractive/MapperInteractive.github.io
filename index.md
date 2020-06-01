@@ -12,6 +12,9 @@ Mapper Interactive: A Toolbox for the Visual Exploration of High-Dimensional Dat
 Youjia Zhou, Yaodong Zhao, Lin Yan, Nathaniel Saul, Bei Wang.
 2020.
 
+### Video
+
+[![Screenshot of video](video-teaser.png)](https://www.youtube.com/watch?v=z2VEkv1apF8)
 
 ### Installation
 ```shell
