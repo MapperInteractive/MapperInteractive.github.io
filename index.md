@@ -8,9 +8,9 @@ Please find the source code on [GitHub](https://github.com/MapperInteractive/Map
 
 ### Cite
 
-Mapper Interactive: A Toolbox for the Visual Exploration of High-Dimensional Data.
-Youjia Zhou, Yaodong Zhao, Lin Yan, Nathaniel Saul, Bei Wang.
-2020.
+Mapper Interactive: A Toolbox for the Visual Exploration of
+High-Dimensional Data.
+Youjia Zhou, Yaodong Zhao, Bei Wang. 2020.
 
 ### Video
 
