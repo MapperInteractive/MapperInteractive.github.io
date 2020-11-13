@@ -9,7 +9,9 @@ Please find the source code on [GitHub](https://github.com/MapperInteractive/Map
 ### Cite
 
 Mapper Interactive: A Scalable, Extendable, and Interactive Toolbox for the Visual Exploration of High-Dimensional Data.
-Youjia Zhou, Nithin Chalapathi, Archit Rathore, Yaodong Zhao, Bei Wang. 2020.
+Youjia Zhou, Nithin Chalapathi, Archit Rathore, Yaodong Zhao, Bei Wang. arXiv:2011.03209, 2020.
+
+https://arxiv.org/abs/2011.03209.
 
 ### Video
 
