@@ -9,7 +9,8 @@ Please find the source code on [GitHub](https://github.com/MapperInteractive/Map
 ### Cite
 
 Mapper Interactive: A Scalable, Extendable, and Interactive Toolbox for the Visual Exploration of High-Dimensional Data.
-Youjia Zhou, Nithin Chalapathi, Archit Rathore, Yaodong Zhao, Bei Wang. arXiv:2011.03209, 2020.
+Youjia Zhou, Nithin Chalapathi, Archit Rathore, Yaodong Zhao, Bei Wang.\
+*IEEE Pacific Visualization (PacificVis)*, accepted, 2021.
 
 https://arxiv.org/abs/2011.03209.
 
@@ -36,6 +37,7 @@ pip install scikit-learn
 pip install kmapper
 pip install networkx
 pip install flask
+pip install flask_assets
 ```
 
 To perform linear regression, please also make sure you have [statsmodels](https://www.statsmodels.org/stable/index.html) installed.
